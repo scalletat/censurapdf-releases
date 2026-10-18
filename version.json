@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
-    "downloadUrl": "",
-    "sha256": "",
+    "downloadUrl": "https://github.com/scalletat/censurapdf-releases/releases/download/v1.0.0/CensuraPDF-Unificado.exe",
+    "sha256": "sha256:67fdf9fcabea8b83a113f449075532e0510bb8b470ac7dcb82d25ea3316f4dba",
     "mandatory": false,
     "notes": "Versão inicial."
   }
